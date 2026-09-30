@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "585933639727",
+    "project_id": "kabadidigital-new",
+    "storage_bucket": "kabadidigital-new.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585933639727:android:b27e018a471cbc4d3af6da",
+        "android_client_info": {
+          "package_name": "com.example.kabadidigital"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv0RirYhLduwXWJsJcQoyw_3FM8BMUjzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

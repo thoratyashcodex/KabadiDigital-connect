@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kabadi Digital</string>
+
+    <string name="good_evening">Good Evening 👋</string>
+    <string name="app_title">Kabadi Digital</string>
+    <string name="online">● Online</string>
+    <string name="today_earning">Today\'s Earnings</string>
+    <string name="view">View →</string>
+    <string name="more_than_last_week">↑ 23% more than last week</string>
+    <string name="recent_lots">Recent Lots</string>
+    <string name="view_all">View All →</string>
+    <string name="price_alert_title">Today\'s recycler price increased\!</string>
+    <string name="price_alert_detail">₹45/kg → ₹52/kg • GreenTech Pune</string>
+
+    <string name="submit_ewaste">Submit E-Waste</string>
+    <string name="photo_and_weight">Photo &amp; Weight</string>
+    <string name="today_price">Today\'s Price</string>
+    <string name="live_market_price">Live Market Price</string>
+    <string name="recycler_service">Recycler Service</string>
+    <string name="available_centers">Available Centers</string>
+    <string name="my_lots">My Lots</string>
+    <string name="tracking_history">Tracking &amp; History</string>
+
+    <string name="scan">Scan</string>
+    <string name="scan_subtitle">Check photo, weight and price</string>
+    <string name="how_it_works">How does it work?</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="take_scrap_photo">Take a clear photo of your scrap item.</string>
+    <string name="select_scrap_type">Select Scrap Type</string>
+    <string name="select_scrap_description">Select mobile, laptop, wire, etc.</string>
+    <string name="enter_weight">Enter Weight</string>
+    <string name="enter_weight_description">Enter the scrap weight in kilograms.</string>
+    <string name="view_price">View Price</string>
+    <string name="view_price_description">See the price per kilogram.</string>
+    <string name="total_price">View Total Price</string>
+    <string name="total_price_description">Weight × price per kg = estimated price.</string>
+    <string name="weight_kg">Weight (kg)</string>
+    <string name="weight_example">e.g. 2.5</string>
+    <string name="price_estimate">Price Estimate</string>
+    <string name="scrap_type">Scrap Type</string>
+    <string name="weight">Weight</string>
+    <string name="today_rate">Today\'s Rate</string>
+    <string name="total_estimated_price">Total Estimated Price</string>
+    <string name="scan_photo_title">Scan a photo of your scrap</string>
+    <string name="scan_photo_subtitle">Mobile, laptop and electronic items</string>
+    <string name="auto_history_saved">✓ This lot was automatically saved to history</string>
+    <string name="auto_history_instruction">Take a photo and enter the weight. The lot will be saved to history automatically.</string>
+    <string name="price_note">Note: This is an estimated price. The actual scrap price may vary.</string>
+
+    <string name="mobile">Mobile Phone</string>
+    <string name="laptop">Laptop</string>
+    <string name="copper_wire">Copper Wire</string>
+    <string name="iron">Iron</string>
+    <string name="battery">Battery</string>
+    <string name="tv">TV</string>
+    <string name="computer">Computer</string>
+
+    <string name="my_photos">My Photos</string>
+    <string name="no_photos">No photos saved yet 📷</string>
+    <string name="scrap_photo">Scrap Photo</string>
+    <string name="saved_scrap_photo">Saved Scrap Photo</string>
+    <string name="storage">KabadiDigital Storage</string>
+    <string name="tap_to_view">Tap to view photo →</string>
+    <string name="close">Close</string>
+
+    <string name="today_scrap_prices">Today\'s Scrap Market Prices</string>
+
+    <string name="history">History</string>
+    <string name="all_scrap_lots">All Your Scrap Lots</string>
+    <string name="history_empty">No history yet</string>
+    <string name="history_empty_description">Complete the photo + weight on the Scan page.</string>
+    <string name="total_lots">Total %1$d Lots</string>
+    <string name="total_label">Total</string>
+    <string name="rate_label">Rate</string>
+
+    <string name="home">Home</string>
+    <string name="scan_nav">Scan</string>
+    <string name="price">Price</string>
+    <string name="history_nav">History</string>
+
+    <string name="language">Language</string>
+    <string name="select_language">Select Language</string>
+    <string name="marathi">Marathi</string>
+    <string name="english">English</string>
+    <string name="hindi">Hindi</string>
+
+    <string name="photo_saved">Photo saved to KabadiDigital ✓</string>
+    <string name="photo_save_failed">Could not save the photo</string>
+    <string name="photo_not_taken">Photo was not taken</string>
+    <string name="camera_permission_required">Camera permission is required</string>
+    <string name="history_auto_saved">History saved automatically ✓</string>
+</resources>

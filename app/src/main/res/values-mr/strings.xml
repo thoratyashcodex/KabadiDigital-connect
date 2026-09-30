@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">कबाडी डिजिटल</string>
+    <string name="good_evening">शुभ संध्याकाळ 👋</string>
+    <string name="app_title">कबाडी डिजिटल</string>
+    <string name="online">● ऑनलाइन</string>
+    <string name="today_earning">आजची कमाई</string>
+    <string name="view">पहा →</string>
+    <string name="more_than_last_week">↑ गेल्या आठवड्यापेक्षा 23% जास्त</string>
+    <string name="recent_lots">अलीकडील लॉट्स</string>
+    <string name="view_all">सर्व पहा →</string>
+    <string name="price_alert_title">आजचा रिसायकलर भाव वाढला</string>
+    <string name="price_alert_detail">₹45/kg → ₹52/kg • GreenTech Pune</string>
+
+    <string name="submit_ewaste">ई-कचरा जमा करा</string>
+    <string name="photo_and_weight">फोटो आणि वजन</string>
+    <string name="today_price">आजचा भाव</string>
+    <string name="live_market_price">लाइव्ह बाजार भाव</string>
+    <string name="recycler_service">रिसायकलर सेवा</string>
+    <string name="available_centers">उपलब्ध केंद्रे</string>
+    <string name="my_lots">माझे लॉट्स</string>
+    <string name="tracking_history">ट्रॅकिंग आणि इतिहास</string>
+
+    <string name="scan">स्कॅन</string>
+    <string name="scan_subtitle">फोटो, वजन आणि किंमत तपासा</string>
+    <string name="how_it_works">हे कसे काम करते?</string>
+    <string name="take_photo">फोटो काढा</string>
+    <string name="take_scrap_photo">तुमच्या स्क्रॅप वस्तूचा स्पष्ट फोटो काढा.</string>
+    <string name="select_scrap_type">स्क्रॅप प्रकार निवडा</string>
+    <string name="select_scrap_description">मोबाईल, लॅपटॉप, वायर इत्यादी निवडा.</string>
+    <string name="enter_weight">वजन टाका</string>
+    <string name="enter_weight_description">स्क्रॅपचे वजन किलोग्रॅममध्ये टाका.</string>
+    <string name="view_price">भाव पहा</string>
+    <string name="view_price_description">प्रति किलोग्रॅम भाव पहा.</string>
+    <string name="total_price">एकूण किंमत पहा</string>
+    <string name="total_price_description">वजन × प्रति किलो भाव = अंदाजे किंमत.</string>
+    <string name="weight_kg">वजन (kg)</string>
+    <string name="weight_example">उदा. 2.5</string>
+    <string name="price_estimate">किंमत अंदाज</string>
+    <string name="scrap_type">स्क्रॅप प्रकार</string>
+    <string name="weight">वजन</string>
+    <string name="today_rate">आजचा भाव</string>
+    <string name="total_estimated_price">एकूण अंदाजे किंमत</string>
+    <string name="scan_photo_title">तुमच्या स्क्रॅपचा फोटो स्कॅन करा</string>
+    <string name="scan_photo_subtitle">मोबाईल, लॅपटॉप आणि इलेक्ट्रॉनिक वस्तू</string>
+    <string name="auto_history_saved">✓ हा लॉट आपोआप इतिहासात सेव्ह झाला</string>
+    <string name="auto_history_instruction">फोटो काढा आणि वजन टाका. लॉट आपोआप इतिहासात सेव्ह होईल.</string>
+    <string name="price_note">टीप: ही अंदाजे किंमत आहे. प्रत्यक्ष स्क्रॅप भाव बदलू शकतो.</string>
+
+    <string name="mobile">मोबाईल फोन</string>
+    <string name="laptop">लॅपटॉप</string>
+    <string name="copper_wire">कॉपर वायर</string>
+    <string name="iron">लोखंड</string>
+    <string name="battery">बॅटरी</string>
+    <string name="tv">टीव्ही</string>
+    <string name="computer">कंप्युटर</string>
+
+    <string name="my_photos">माझे फोटो</string>
+    <string name="no_photos">अजून कोणतेही फोटो सेव्ह केलेले नाहीत 📷</string>
+    <string name="scrap_photo">स्क्रॅप फोटो</string>
+    <string name="saved_scrap_photo">सेव्ह केलेला स्क्रॅप फोटो</string>
+    <string name="storage">कबाडी डिजिटल स्टोरेज</string>
+    <string name="tap_to_view">फोटो पाहण्यासाठी टॅप करा →</string>
+    <string name="close">बंद करा</string>
+
+    <string name="today_scrap_prices">आजचे स्क्रॅप बाजार भाव</string>
+
+    <string name="history">इतिहास</string>
+    <string name="all_scrap_lots">तुमचे सर्व स्क्रॅप लॉट्स</string>
+    <string name="history_empty">अजून कोणताही इतिहास नाही</string>
+    <string name="history_empty_description">स्कॅन पेजवर फोटो आणि वजन पूर्ण करा.</string>
+    <string name="total_lots">एकूण %1$d लॉट्स</string>
+    <string name="total_label">एकूण</string>
+    <string name="rate_label">भाव</string>
+
+    <string name="home">होम</string>
+    <string name="scan_nav">स्कॅन</string>
+    <string name="price">भाव</string>
+    <string name="history_nav">इतिहास</string>
+
+    <string name="language">भाषा</string>
+    <string name="select_language">भाषा निवडा</string>
+    <string name="marathi">मराठी</string>
+    <string name="english">इंग्रजी</string>
+    <string name="hindi">हिंदी</string>
+
+    <string name="photo_saved">फोटो कबाडी डिजिटलमध्ये सेव्ह झाला ✓</string>
+    <string name="photo_save_failed">फोटो सेव्ह करता आला नाही</string>
+    <string name="photo_not_taken">फोटो काढला गेला नाही</string>
+    <string name="camera_permission_required">कॅमेरा परवानगी आवश्यक आहे</string>
+    <string name="history_auto_saved">इतिहास आपोआप सेव्ह झाला ✓</string>
+</resources>
